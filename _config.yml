@@ -1,17 +1,17 @@
 ###########
 # site.title, site.url, site.author.name
 
-title:   'Blog Posts By Alex-Esc'
+title:   'hyphen esc'
 author: 
-  name:  'Blog Posts'
-description:  I write about art & tech.
+  name:  'hyphen esc'
+description:  hyphen esc.
 
 ## note: 
 #  use site.path in your templates to make it work for both protocols e.g. http and https
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
-path: '/posts'
-url:  'https://alex-esc.github.io'
-baseurl: '/posts'
+path: '' #'/posts'
+url:  'https://hyphenesc.github.io/'
+baseurl: '' #'/posts'
 
 
 ########
