@@ -1,11 +1,18 @@
 ---
-layout: default
+layout: welcome
 title: Welcome
 excerpt_separator: <!--more-->
 ---
 
+## **Hello**
+
+### *come again*
+
+do browse
+
 
 <!--
+
 ## Latest Post
 
 
@@ -65,6 +72,7 @@ All my blog posts are licensed under a [Creative Commons Attribution-ShareAlike 
 
 
 [l]: https://creativecommons.org/licenses/by-sa/4.0/
+
 -->
 
 ## **Hello**
