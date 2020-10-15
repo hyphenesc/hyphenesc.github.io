@@ -9,9 +9,9 @@ description:  hyphen esc.
 ## note: 
 #  use site.path in your templates to make it work for both protocols e.g. http and https
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
-path: '' #'/posts'
+path: 'https://hyphenesc.github.io/' #'/posts'
 url:  'https://hyphenesc.github.io/'
-baseurl: '' #'/posts'
+baseurl: 'https://hyphenesc.github.io/' #'/posts'
 
 
 ########
