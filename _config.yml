@@ -13,6 +13,11 @@ path: 'https://hyphenesc.github.io/' #'/posts'
 url:  'https://hyphenesc.github.io/'
 baseurl: '' #'/posts'
 
+other:
+  music: 'https://hyphenesc.github.io/music'
+  video: 'https://hyphenesc.github.io/video'
+  about: 'https://hyphenesc.github.io/about'
+  posts: 'https://hyphenesc.github.io/posts'
 
 ########
 # more settings
